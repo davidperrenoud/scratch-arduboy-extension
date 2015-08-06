@@ -1,1 +1,1 @@
-http://khanning.github.io/scratch-littlebits-extension
+http://davidperrenoud.github.io/scratch-arduboy-extension
